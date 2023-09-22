@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "button-type": "off",
+    "highest-available-document-mode": "off",
+    "axe/name-role-value": "off",
+    "detect-css-reflows/paint": "off",
+    "detect-css-reflows/composite": "off"
+  }
+}
